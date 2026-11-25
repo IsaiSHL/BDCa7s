@@ -4,7 +4,7 @@ project:
   title:        "BDCa 7 segmentos"      # Project title
   author:       "isai"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "encendido de un display"      # One line description of what your project does
+  description:  "encendido de un displays"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
