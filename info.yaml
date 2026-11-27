@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     481701542533751809       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "BDCa 7 segmentos"      # Project title
-  author:       "isai"      # Your name
+  title:        "BCD to 7-segment"      # Project title
+  author:       "Isai - CIO - Mex"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "encendido de un displays"      # One line description of what your project does
+  description:  "A BCD-to-7-segment decoder converts a 4-bit BCD number (0000–1001) into the signals required to illuminate the segments a–g of a display."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
